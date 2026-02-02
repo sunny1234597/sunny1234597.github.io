@@ -1,15 +1,15 @@
 ---
 title: Vatsim UK
-subtitle: Website Design
+subtitle: 비행 시뮬레이션 네트워크인 Vatsim의 영국지부
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: Dec, 2025
 img: vatsim_uk.png
 thumbnail: vatsim_uk.png
 alt: Core application for VATSIM UK
 project-date: April 2014
-client: Why Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: vatsim_uk
+category: 기능 제거
+description: 포럼 숨기기 기능 제거 후 composer lint 마이그레이션  
 
 ---
