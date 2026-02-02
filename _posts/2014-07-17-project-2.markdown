@@ -5,7 +5,7 @@ layout: default
 modal-id: 2
 date: Nov 2025 ~ ongoing
 img: cms.png
-thumbnail: cms-thumbnail.png
+thumbnail: cms_thumbnail.png
 alt: image-alt
 project-date: Nov 2025
 client: statamic/cms
