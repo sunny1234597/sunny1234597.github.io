@@ -1,15 +1,18 @@
 ---
-title: Escape
-subtitle: Website Design
+title: CMS
+subtitle: Laravel 기반 CMS의 핵심 Composer 패키지
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+date: Nov 2025 ~ ongoing
+img: cms.png
+thumbnail: cms-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: Nov 2025
+client: statamic/cms
+category: localization
+description:
+- 한국어(lang/ko) 언어 파일 구조 생성
+- UI와 문서에 표시되는 텍스트 번역 및 표현 검토
+- 번역량이 많아 현재 개인 작업으로 진행 중
 
 ---
