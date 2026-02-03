@@ -6,6 +6,7 @@ modal-id: 2
 date: Nov 2025 ~ ongoing
 img: cms.png
 thumbnail: cms_thumbnail.png
+link: https://github.com/statamic/cms
 alt: image-alt
 project-date: Nov 2025
 client: statamic/cms
