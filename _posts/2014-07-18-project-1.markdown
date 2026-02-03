@@ -8,9 +8,9 @@ img: vatsim_uk.png
 thumbnail: vatsim_uk.png
 link: https://www.vatsim.uk/
 alt: Core application for VATSIM UK
-project-date: April 2014
+project-date: Dec, 2025
 client: vatsim_uk
 category: 기능 제거
-description: 포럼 숨기기 기능 제거 후 composer lint 마이그레이션  
+description: 기능 제거 시 데드 코드를 남기지 않고 마이그레이션과 코드 정합성을 맞추는 방향으로 수정 
 
 ---
