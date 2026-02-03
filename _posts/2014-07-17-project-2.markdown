@@ -13,8 +13,8 @@ client: statamic/cms
 star: 4.7k
 category: localization
 description:
-- 한국어(lang/ko) 언어 파일 구조 생성
-- UI와 문서에 표시되는 텍스트 번역 및 표현 검토
-- 번역량이 많아 현재 개인 작업으로 진행 중
+  - 한국어(lang/ko) 언어 파일 구조 생성<br>
+  - UI와 문서에 표시되는 텍스트 번역 및 표현 검토<br>
+  - 번역량이 많아 현재 개인 작업으로 진행 중
 
 ---
