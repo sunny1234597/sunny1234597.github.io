@@ -19,21 +19,28 @@
                             <ul class="list-inline item-details">
                                
                                 <li>Client:
-                                    <strong>{{ post.client }}
+                                    <strong>
+                                     <a href="{{ post.link_c }}" target="_blank">{{ post.client }}</a>
                                     </strong>
                                 </li>
                                 <li>Star:
-                                     <strong>{{ post.star }}</strong>
+                                     <strong>
+                                      <a href="{{ post.link_s }}" target="_blank">{{ post.star }}</a>
+                                     </strong>
                                 </li>
                                 <li>User:
-                                     <strong>{{ post.user }}</strong>
+                                     <strong>
+                                      <a href="{{ post.link_u }}" target="_blank">{{ post.user }}</a>
+                                     </strong>
                                 </li>
                                 <li>Date:
-                                    <strong>{{ post.project-date }}
+                                    <strong>
+                                     {{ post.project-date }}
                                     </strong>
                                 </li>
                                 <li>Service:
-                                    <strong>{{ post.category }}
+                                    <strong>
+                                     {{ post.category }}
                                     </strong>
                                 </li>
                             </ul>
