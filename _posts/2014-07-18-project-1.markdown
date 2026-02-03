@@ -6,6 +6,7 @@ modal-id: 1
 date: Dec, 2025
 img: vatsim_uk.png
 thumbnail: vatsim_uk.png
+link: https://github.com/VATSIM-UK/core
 alt: Core application for VATSIM UK
 project-date: April 2014
 client: vatsim_uk
