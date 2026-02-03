@@ -1,15 +1,19 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Lobehub
+subtitle: 글로벌 오픈소스 AI 에이전트 워크스페이스
+star: 70K
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+date: Nov, 2025
+img: lobehub.png
+thumbnail: lobehub_thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+project-date: Nov, 2025
+client: lobehub
+user: 600만
+category: localization
+description: 
+- 현지화 및 가독성 개선:
+  - 직역 투의 표현을 문맥에 맞는 자연스러운 한국어로 교정하여 사용자 가독성 향상 
+  - AI 모델 기능 설명에 쓰인 용어들을 통일하여 문서 전체의 일관성 기여
 ---
