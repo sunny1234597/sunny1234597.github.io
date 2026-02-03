@@ -23,16 +23,20 @@
                                      <a href="{{ post.link }}" target="_blank">{{ post.client }}</a>
                                     </strong>
                                 </li>
+                             {% if post.star %}
                                 <li>Star:
                                      <strong>
                                       {{ post.star }}
                                      </strong>
                                 </li>
+                             {% endif %}
+                             {% if post.user %}
                                 <li>User:
                                      <strong>
                                       {{ post.user }}
                                      </strong>
                                 </li>
+                             {% endif %}
                                 <li>Date:
                                     <strong>
                                      {{ post.project-date }}
